@@ -1,6 +1,6 @@
 # Flight search result page - avia-search  
 
-https://yuryavdeev.github.io/avia-search  
+https://yuriy-avdeev.github.io/avia-search
 
 Page showing the result of the selection of flights and their filtering (in desktop resolution).
 Filtering occurs on any state change in the filter block.     
